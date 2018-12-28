@@ -1,7 +1,7 @@
 # Line Token v 1.1
 凝雪
 ------
-Header :
+標題 :
 ------
 - `UA = CHROMEOS\t1.4.17\tChrome_OS\t1`
 - `LA = Line/1.4.17`
