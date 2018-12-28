@@ -5,7 +5,7 @@ console.info("\n\
 BotName: LINE Ningxue JS\n\
 Version: JS VERSION\n\
 =========================================\n\
-\nNOTE : This bot is made by @ningxue5200 !");
+\nNOTE : This bot is made by @ningxue520 !");
 
 /*
 | This constant is for auth/login
