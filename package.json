@@ -4,14 +4,14 @@
   "description": "LINE",
   "main": "./src/main.js",
   "scripts": {
-    "start": "npm run vipro",
-    "vipro": "node ./src/vipro.js"
+    "start": "npm run ningxue",
+    "ningxue": "node ./src/ningxue.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Gendjex/Token1.git"
+    "url": "https://github.com/ningxue520/linetoken.git"
   },
-  "author": "Vipro",
+  "author": "Ningxue",
   "license": "MIT",
   "devDependencies": {
     "qrcode-terminal": "^0.11.0",
@@ -29,9 +29,9 @@
     "moment": "^2.18.1"
   },
   "bugs": {
-    "url": "https://github.com/Gendjex/Token1/issues"
+    "url": "https://github.com/ningxue520/linetoken/issues"
   },
-  "homepage": "https://github.com/Gendjex/Token1#README",
+  "homepage": "https://github.com/ningxue520/linetoken#README",
   "keywords": [
     "line"
   ]
