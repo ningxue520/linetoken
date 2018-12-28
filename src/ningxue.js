@@ -2,11 +2,10 @@ const LineConnect = require('./connect');
 //const LINE = require('./main.js');
 console.info("\n\
 =========================================\n\
-BotName: LINE Vipro JS\n\
+BotName: LINE Ningxue JS\n\
 Version: JS VERSION\n\
-Thanks to @Alfathdirk @TCR_TEAM\n\
 =========================================\n\
-\nNOTE : This bot is made by @Alfathdirk @TCR_TEAM !");
+\nNOTE : This bot is made by @ningxue520 !");
 
 /*
 | This constant is for auth/login
